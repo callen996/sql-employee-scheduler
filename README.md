@@ -50,7 +50,7 @@ So that I can organize and plan my business
 
 ## Repository
 
-  - [Project Repo]
+  - [Project Repo](https://github.com/callen996/sql-employee-scheduler)
 
 ## Contributions
 2. No front end files required.
