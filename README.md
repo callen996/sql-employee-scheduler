@@ -6,7 +6,7 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 ## Demo 
 
-![Demo](https://github.com/EdenKhaos/12-mysql-employee-tracker/blob/master/assets/12-Employee-Tracker-Demo.gif)
+
 
 ## Description
 * Functional application.
